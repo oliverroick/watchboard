@@ -1,0 +1,11 @@
+{
+  "name": "watchboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:oliverroick/watchboard.git",
+  "author": "Oliver Roick <oliver.roick@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
